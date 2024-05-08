@@ -1,18 +1,17 @@
 # Desafio_DIO-Podcast
 Desafio da DIO com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
+Foi gerado um podcast sobre engenharia química e suas novas tecnologias e softwares emergentes no mercado.
 
 ## Ferramentas usadas para o projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## Passo a passo
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
 
 ## Prompts usados
 
